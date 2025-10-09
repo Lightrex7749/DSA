@@ -1,0 +1,41 @@
+# Compiled binary artifacts
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+*.dll
+*.pdb
+
+# Build folders
+/build/
+/bin/
+/Debug/
+/Release/
+/x64/
+/x86/
+
+# VS Code settings
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# CMake build dir
+/CMakeFiles/
+/CMakeCache.txt
+/Makefile
+/*.cmake
+
+# Logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+~$*
+
+# Ignore user-specific config
+*.user
+*.suo
